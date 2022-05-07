@@ -1,4 +1,4 @@
-# Data Science Learning Resource
+# Data Science, Bioinformatics Practical Learning Resource
 
 ## Disclaimer : 
 ### This is a learning resource for data science picked up from various source from Github & Youtube. Don't forget to give credit to the original publisher
@@ -10,6 +10,8 @@
 4. Data Science Statistics 
 5. Data pre-processing (normalization, scaling, feature engineering)
 6. Basic Machine Learning Classification and Regression with Python (Fit & Predict) using Scikit-Learn
+7. Utilizing Google Colab to work with Python (with/or R)
+8. Practical Machine Learning Deployment using Streamlit
 
 
 1. [Tokopedia Fundamentals](https://github.com/onlyphantom/tokopedia-fundamentals) - Cloned April 2022
