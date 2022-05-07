@@ -1,9 +1,9 @@
 # Data Science, Bioinformatics Practical Learning Resource
 
-### Disclaimer : This is a learning resource for data science picked up from various source from Github & Youtube. Don't forget to give credit to the original publisher
+> Disclaimer : This is a learning resource for data science picked up from various source from Github & Youtube. Don't forget to give credit to the original publisher.
 
-\n\n
-#### Summary of Topic Encompassed Here :
+
+#### Topic :
 1. Python for Data Science
 2. Data Wrangling & Exploratory Data Analysis with Pandas, Pandas Profiling, Numpy
 3. Data Visualization using built-in Pandas, Matplotlib, Bokeh, Plotly
@@ -13,8 +13,12 @@
 7. Utilizing Google Colab to work with Python (with/or R)
 8. Practical Machine Learning Deployment using Streamlit
 
-\n\n
 #### Source:
+| # | Repository | Topic | Supplementary material |
+| ----------- | ----------- |  ----------- |  ----------- |
+| Header | Title |  ----------- |  ----------- |
+| Paragraph | Text |  ----------- |  ----------- |
+
 1. [Tokopedia Fundamentals](https://github.com/onlyphantom/tokopedia-fundamentals) - Cloned April 2022
     - Intro to Python
     - Python Data Wrangling
