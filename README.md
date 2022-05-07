@@ -1,4 +1,4 @@
-### This is the collection repository cloned and compiled from various learning site by me:
+### This is the collection repository cloned and compiled from various learning site :
 #### Don't forget to give credit to the original publisher
 
 1. [Tokopedia Fundamentals](https://github.com/onlyphantom/tokopedia-fundamentals) - Cloned April 2022
